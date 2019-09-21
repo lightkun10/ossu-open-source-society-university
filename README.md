@@ -1,1 +1,1 @@
-"# ossu-open-source-society-university" 
+# ossu-open-source-society-university
